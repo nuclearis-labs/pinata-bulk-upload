@@ -1,6 +1,9 @@
 import axios from "axios";
 import FormData from "form-data";
-import fs from "fs"
+import fs from "fs";
+import dotenv from "dotenv";
+
+dotenv.config();
 
 const folder = fs.readdirSync("./PDFS");
 
@@ -17,8 +20,8 @@ for (const file of folder) {
       maxBodyLength: 'Infinity', //this is needed to prevent axios from erroring out with large files
       baseURL: 'https://api.pinata.cloud/',
       headers: {
-        "pinata_api_key": "4c0d0b184b5d317ab298",
-        "pinata_secret_api_key": "e907ea6eb56877bed806dc0f9bf3c88d5bad03bd8cd0c0d23cc1c5068ab52815",
+        "pinata_api_key": process.env.PINATA_API_KEY,
+        "pinata_secret_api_key": process.env.PINATA_SECRET_API_KEY,
         'Content-Type': `multipart/form-data; boundary=${data._boundary}`,
       }
     });
