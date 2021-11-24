@@ -1,0 +1,186 @@
+nombre de archivo,hash ipfs
+I-0000-AF-FRM-0002-0-0 Purchase Requisition.pdf,QmcWt5nKBxN3eAJmWRdfXVVeqiqF53iekx36i2NB9ZVs7R
+I-0000-AF-FRM-0011-0-0 Purchaser order.pdf,QmYUQEptj9d8W59YAwPbr9QKLuH61MrpECkqC1jqBU6xaX
+I-0000-AF-FRM-0002-0-0 Purchase Requisition.pdf,QmcWt5nKBxN3eAJmWRdfXVVeqiqF53iekx36i2NB9ZVs7R
+I-0000-AF-FRM-0011-0-0 Purchaser order.pdf,QmYUQEptj9d8W59YAwPbr9QKLuH61MrpECkqC1jqBU6xaX
+N-0000-AF-PER-0010-0-0 -Training record for requalification A.R.pdf,QmY8kuvNYLcLpcSGiGNxhVPWGucN2yapN758rcsaTRkkrh
+N-0000-AF-PER-0011-0-0 - Rosso.pdf,QmNVcWk7zPbH6kDSpmb5qkETZJeyTd9wdheUikh5oCsvy3
+N-0000-AF-PER-20001-0-0 - ASME III.pdf,QmUeGpoaKrU4HyPkpKE1yjBoPeXjhUGAZZQEJR7qqheh98
+N-0000-AF-PER-21001-0-0 - Codigo ASME III NCA 3800.pdf,QmfH3ZLeUmQUF2uamMfFbD9gQZaxtkrQxowMqx7a4XzCGc
+N-0000-AF-PER-21002-0-0 - COMERCIAL Y COMPRAS.pdf,QmQ5ZKq7BX8grgBDwX4R11t1JnULy8oLSTp6etFBjGce8s
+N-0000-AF-PER-21003-0-0 - CONTROL DE DOCUMENTOS Y AUDITORIA.pdf,QmUiiWWgJtNRLo9P2MjqbmMYkyRcotYJqVREKcBc2c1Lpx
+N-0000-AF-PER-21004-0-0 - RRHH y CONTROL DE PROVEEDORES.pdf,QmSVFqoj6WLYkFMgSAAUsgqnCske3h2xyJT3tR8oohRoTQ
+N-0000-AF-PER-21005-0-0 - IDENTIFICACION Y MANIPULEO.pdf,QmX71itFHz14ACf33n1gFaLfmXr9EkpMeD7xvurJHywjNe
+N-0000-AF-PER-21006-0-0 - NO CONFORMIDADES Y ACCIONES CORRECTIVAS.pdf,QmaJ3rQCA6ymXxBxuaojSFytr7BauwL6yR2C1aXR4g3jdX
+N-0000-AF-PER-21007-0-0 - Qualification record of Welding for Drop Weight Test Coupon.pdf,QmdHFYAPtDRbbUSyufHbooNZjLYJ8TuGVZjE7Mn1kLHYyj
+N-0000-AF-PER-21008-0-0 - ASME III.pdf,QmTEP8Ub5eZtXbENVs2FPEfRP5eozot9eMwJjLpQ2KWUoh
+N-0000-AF-PER-21009-0-0 - Manual de Calidad.pdf,QmZ65b3qbaKSWy3PXbCdT1ZadP2X4Q2QpC1EuMYa7pfkwZ
+N-0000-AF-PER-21010-0-0 -Training record for requalification A.R.pdf,QmbDx49Hf1bzsFehXzVgxWhAWiCXhfSbj8CmrCb51sfhYA
+N-0000-AF-PER-21011-0-0 - Rosso.pdf,QmTyJPsEGLBxCsQB6NXUCemBaRvjPLFpqQ3H8udLgm2ZNP
+N-0000-CO-FRM-0001-0-0 Feasibility review report.pdf,QmTTAN5ezi171TUajKHw6JxJYnMq36tjdPKP5AEwqGMn9A
+N-0000-CO-FRM-0002-0-0 Quotation request.pdf,QmZxfXT1zCBEVk2kK3tKw4osvj4sHR26XVrySMUkkmU1Zf
+N-0000-CO-FRM-0003-0-0 Production order.pdf,QmdrvJbvnYGJqRvNwsTZj9z4gJj1P2j5RWaN2phD5729C8
+N-0000-CO-PRO-0001-0-0 Sales process.pdf,QmYxAc2D1xhuPwFUCTBNk56rakWiDExAxnKdDQQnKzPj62
+N-0000-CO-PRO-0002-0-0 Purchasing process.pdf,Qmc9oURPyhbLEXQEFwwjh9BcPuKJarSSUBehdYKXYoi9kt
+N-0000-CO-PRO-0002-1-0 Purchasing process.pdf,QmUBKtHgwRaQXM9WdxbhXiLDvVcnNZiQpiLfhnMb8dzf4t
+N-0000-EN-FRM-0001-0-0 MITP.pdf,QmPTnroRHJzCRFxzzufS47FSMpDM1ANX2JTVgSgCXYeWs1
+N-0000-EN-ITT-0001-0-0 Normalizing, Tempering and specimen preparation for testing of plates ASME SA-516.pdf,QmSxw1aZTVnHyb8gJviGgR5cbofsHmDeeQch3sfzH3SQ37
+N-0000-EN-ITT-0002-0-0 Welding Instruction for Drop Weight Testing Coupons.pdf,QmXu3kaYt4rEBdCN5guD1KPQdGSeGfivBYbTJc3Ma78skj
+N-0000-EN-ITT-0003-0-0 Packaging Instruction.pdf,QmY7AZUPvNvE7moaYtzKfSchXbsTGfpKxg6wNr4SS5nqBy
+N-0000-EN-ITT-0003-0-1 Packaging Instruction.pdf,QmeN7RjfrWDg9VUi8F3eKbnCKWj2ufeKwYdoAymR9miD99
+N-0000-EN-ITT-0004-0-0 Plasma Cutting Instruction.pdf,QmNgUHBaQpwXECXfuBocM9SbzuoKujiQAKrrNCNQ78irVj
+N-0000-EN-ITT-0005-0-0 Sheet metal rolling process.pdf,QmbxZhcAMqwv1dQueLsAfGAyW3qe8NJj9j3JqJEA5KgzB4
+N-0000-EN-ITT-0006-0-0 Welding Material conservation.pdf,QmW3gUyfMPnQdKiSEGG3E1DvATshb3B3UQArQKdQgqDagG
+N-0000-EN-ITT-0007-0-0 Welding Instruction.pdf,QmQzKx5WQtpFqfjXvGMA5bykx6R25K2n79sWoSjaaQo3ZD
+N-0000-HR-FRM-0003-0-0 Induction and indoctrination record.pdf,QmRxG4KDEmcnuF5t8vYGChaGz3ojyb7VWG7SxvZGXmkxZj
+N-0000-HR-FRM-0007-0-0 Qualification record.pdf,QmUxxny15Kp42f1wCpzhtuA7XGcggkmhLficJeLbx8yrS9
+N-0000-HR-FRM-0008-0-0 Training record.pdf,QmQV9x2sz1utr84FKq2ZN3ZSW2Bu3KdgZtNFz83qQTwUPV
+N-0000-HR-PRO-0001-0-0 Personnel indoctrination, training, certification and qualification.pdf,QmRHEeyV9ZJALSf1BJUVF9N2qQGacNQMgGnwwWcDLuWrpv
+N-0000-PR-WLO-0001-0-0 - Welder Log Gabriel Arcudi.pdf,QmUhiZh9inxPffMTAk8BKD8qb77uVkEUNN1aDM8U9pKwts
+N-0000-PR-WLO-0001-0-1 - Welder Log Gabriel Arcudi.pdf,Qmf4wAdCbcJLo5Fp8WiFypvfFPunr7RRyRA4VC3UF2rx4V
+N-0000-PR-WLO-0001-0-2 - Welder Log Gabriel Arcudi.pdf,QmQUCisLgQxLTjKNrniArfH3F66XPi4tnn4ZUbvgvCnaoA
+N-0000-QA-APR-21001-0-0 - Programa de auditorías 2021.pdf,QmQm8g5pTdSvUcUQYxNTcVdXr1ZDZAjsXmAbUFzajg5u8A
+N-0000-QA-APR-22001-0-0 - Programa de auditorías 2022.pdf,QmYfSxthzPp8bTrZx2YbZAfSNSwqU8kasPdZd7EvKLxmMy
+N-0000-QA-AUC-21001-0-0 - Certificate of Qualified Lead Auditor A.Rosso.pdf,QmWTDCHedDUL55zcsav2gUaJgqruZdHxLHo1sqSCWsmYrZ
+N-0000-QA-AUC-21002-0-0 - Recertification of LA.pdf,QmQUX6z8jsVrfLCHC8kboi974Qv8VscWryg3jpzD5du93c
+N-0000-QA-AUD-21001-0-0 - Audit report ENDITEC.pdf,QmXgNkRHaVbGrAgppD3p7hqY1XbgmSg5pYFnUaXGBjRa3W
+N-0000-QA-AUD-21002-0-0 - Audit report CNEA DIV FRACTURA.pdf,QmXM5wwCXhfwfx9rfVCF1nZkrKX5PxaNaFL12B9dUgqPR8
+N-0000-QA-AUD-21003-0-0 - Audit report LABTESA.pdf,QmfH44LVpU22WTL3cJgqwPmBQ5AkefUszik6fNNVR7nNxK
+N-0000-QA-AUD-21004-0-0- Audit report SILMAR.pdf,QmWQz36ZRMbL65QsY2SCo7hjEeYZJ4N1Gr3w7qwEp2bBzR
+N-0000-QA-AUD-21005-0-0 - Audit report-SIT.pdf,QmXXJfq88LfSZfdh6AimhPpQ8oCRUCBkpjm278TBDNK41P
+N-0000-QA-AUD-21006-0-0 - Internal Audit report.pdf,QmfGB4cb88dx3AD7YnNwXJizqRyYVq6Ldrboa2gdmki5aY
+N-0000-QA-AUP-21001-0-0 - Internal Audit Plan.pdf,QmPLVZF6g8WGUQnSyJmhsnNKuVciwmZb42Mf9AUSxyUu8o
+N-0000-QA-AUQ-21001-0-0 - Qualification of Lead Auditor A.Rosso.pdf,QmZy2uUvGAaFtKJKStzEAqb9DBfSvFFJJabJZgBve4u73b
+N-0000-QA-AUQ-21001-1-0 - Calificación LA para NPT.pdf,QmRzdD9heneRn1VQu9Vz2wZTJQ1t8141ghjsoTE6iPtZjk
+N-0000-QA-CAR-21001-0-0 - Survey LABTESA - NIST Certification.pdf,QmemS6tcDHEkM5puoweaCYeWkE1CG42gV5zHMeCDL7L5qP
+N-0000-QA-CAR-21002-0-0 - Lead Auditor Qualification.pdf,QmRj1Jn1LP12BxGDoi5cLsRHAXthAYntKgGaE6kbyQsqiS
+N-0000-QA-DNO-21001-0-0 - Envio a LABTESA.pdf,QmTZALhVm5gmamj4NzCDvQWGAErBao8EnKmYTG6W39f8vD
+N-0000-QA-DNO-21002-0-0 - Envio a CNEA.pdf,QmT1cW7Wf42h8vbWyWHWMFcj8d8jzAm8gk3GQXr62GSZz7
+N-0000-QA-DNO-21003-0-0 - Envio a SILMAR.pdf,QmdiPA3dChq5eXdwVuYeWPNNuTVHs6XuAV2DVSKKiwGAiF
+N-0000-QA-DNO-21004-0-0 - Envio a SIT.pdf,QmQDLr7QsWtQy9z9NGvzUKEvrn9iePnUP8LRKWBuiQ3z5w
+N-0000-QA-FRM-0002-0-0  Vendor performance assessment.pdf,QmaBu6CxtgKsUnW587Xa5vf6C3oATM3J5b5LmAU7XGt1uC
+N-0000-QA-FRM-0003-0-0 External cover sheet.pdf,QmUNasiZMvY8kmj1tKYMpoHd1B27ChSQpnuLB3waAqehsf
+N-0000-QA-FRM-0004-0-0 Qualification of auditors.pdf,QmWhzN7zcCjgrAHr1DQbXo9GQGETgGvkHk5ECEcLZpqte5
+N-0000-QA-FRM-0005-0-0 Certificate of qualified auditor.pdf,QmSY2uc5MLrAQ42uho3KucAmgmLJbXRStvJ9DTBjxGkppR
+N-0000-QA-FRM-0006-0-0 Audit plan.pdf,QmVaM84V5U2WG3dYKi1zPRxb3YTdKKPdYsBQeXFsJq84C3
+N-0000-QA-FRM-0007-0-0 Audit report.pdf,QmPFukRua1mP74pczPeWvAKTmuP54HFhktn5tkEDPSwWpf
+N-0000-QA-FRM-0008-0-0 Quality System Manual Template.pdf,QmWjpCriCmQBGekMYZPSHvPDjG26xvThL7cQA2JmE2LdGg
+N-0000-QA-FRM-0009-0-0 Procedure template.pdf,QmQJM2AWrwvd9WRGJVf55HxbE1vDYEdmCD8GTknYaAr1Pi
+N-0000-QA-FRM-0010-0-0 Work Instruction Template.pdf,QmPse9khXRtp7f2WCLFc3ppzmnS6KttmJTVNnP4c7n8X9D
+N-0000-QA-FRM-0011-0-0 Source verification Certificate.pdf,QmRrE74gUUDHBj2UuaJFz3ocCU3xzQaiHAGbD89ix2McTB
+N-0000-QA-FRM-0012-0-0 Non-conformity report.pdf,QmfTnM2hyJqzJvHnK5KhGpDQAYvFU7y2MXcoE6Lj9mzy7z
+N-0000-QA-FRM-0013-0-0 Corrective action report.pdf,QmdDjGVr1mHsoyGhTaCmKEXsUAZNXZVQqFVvQvz5GvsM4D
+N-0000-QA-FRM-0015-0-0 Receiving Inspection Certificate.pdf,QmeHDfJay5ypw27PHayA3raLu7WfGNZhZFRR9rqzSgesMP
+N-0000-QA-FRM-0016-0-0 Control protocol.pdf,Qmf8RQkeGtKGs4FDLLtDFQkHKSJnFEUjyf2ocvNjZn3YnH
+N-0000-QA-FRM-0017-0-0 Delivery note.pdf,Qme7Z5h7e5KMFBahEQR9hcYtLdEXeRycgRt7Sh17netnaY
+N-0000-QA-FRM-0018-0-0 Acceptance of services.pdf,QmUt1tHp8YssWK71ug1EPi6HTGXKRrs3feKe2ygejgmLc5
+N-0000-QA-FRM-0019-0-0 Calibration Record.pdf,QmYKGRRPJzErfHSTv634Aaf8m9YorbYqqHEeHBkuzfhkoG
+N-0000-QA-FRM-0020-0-0 Equipment decal.pdf,QmRXnQUEKaztPMTNcXrbPuJFSA77j7AWk6AtqqTCpn7VzJ
+N-0000-QA-FRM-0021-0-0 Do Not Use decal.pdf,QmTHyV1qUboKgn3UKShSkq5CYvdqgM4cCFVjXU5zAknPkY
+N-0000-QA-FRM-0023-0-0 Certified Material Test Report.pdf,QmbznhHcQs1hnEnrGY1hxoaDnR4CueECaamrV8hixMAG6F
+N-0000-QA-FRM-0024-0-0 Certificate of compliance.pdf,QmRGBy2QAzpubqeayJou6wmuc2MuKnHnM1SKD3dunGFNVr
+N-0000-QA-FRM-0025-0-0 Approved sticker.pdf,QmaPHMY8v5UwTPXMPeDi89g5uhQyYLN6bQkBR2ArYmaxqg
+N-0000-QA-FRM-0026-0-0 Hold point sticker.pdf,QmTRv5TMSHBhwmb9m949R1GC6HG2L36X2VmsqCY8Ki22HK
+N-0000-QA-FRM-0027-0-0 Hold sticker.pdf,QmPvvfeUtkSh2Gkt58kjz2vrqyRXcES9dPESspFdAXtqG1
+N-0000-QA-FRM-0029-0-0 Rejected sticker.pdf,QmbETdafPFetw9WtxduWDhfEsnLrWVNNitXZrKAqJuXyvB
+N-0000-QA-FRM-0033-0-0 Welder Log.pdf,QmPz71ANiTdcE2b6dtLFyATnU6zdZkf59viL5dQ12Ccqbf
+N-0000-QA-FRM-0034-0-0 Certificate of Welding Engineer.pdf,QmPZaoqPRyqWiQ61Tash8Lh653YhSgEBReQMQQ9aT9ic7V
+N-0000-QA-LIS-0001-0-0 General index.pdf,QmWnd7vbAQriUVHCgHpR4GTg6B5d7opDQgWyCLUnGDSNxF
+N-0000-QA-LIS-0002-0-0 - Auditors list 2021-01-18.pdf,QmZ2yULssByaKDF2NxNCy9WwLkJ7LxuMdQgzHmbCHrXTAN
+N-0000-QA-LIS-0002-1-0 - Auditors list 2021.pdf,QmVor8MHZiWzQHYFCe2o5zB1kQLqv3RFFwb7qn4BpuCdny
+N-0000-QA-LIS-0003-0-0 - Corrective Action Log.pdf,QmWyivkpKYHy66eerS3nsh4RWWPRo4Tkr7XYBLM2PzzBew
+N-0000-QA-LIS-0004-0-0 - Approved vendors list.pdf,QmNZSZap1cMjTXY2tBYo7DL6gjdzkMZcaTTLtvu8swCmsN
+N-0000-QA-LIS-0004-0-1 - Approved vendors list.pdf,QmZuBYRoek1taHZo7e26VaPeXZvus3F7BMMZcF7xYeMFUn
+N-0000-QA-LIS-0004-0-2 - Approved vendors list.pdf,QmeTFqkuRWtHuEpsnN1H9f6W4UKP2VdHY84pxK2sG2J34N
+N-0000-QA-LIS-0004-0-3 - Approved vendors list.pdf,QmSfFebuiVhJGJPrLN4nXBZewNY818c4XvmLWXHoxaR1zF
+N-0000-QA-LIS-0004-0-4 - Approved vendors list.pdf,QmVhLrJ6DsgcS3HmAB2DnqiQZZjYRWQaGuMVe55VcA9KF5
+N-0000-QA-LIS-0004-0-5 - Approved vendors list.pdf,QmfEiGRXox7roejJccth9DxkWJ65dx1Q29XvZuuw1yuU49
+N-0000-QA-LIS-0004-0-6 - Approved vendors list.pdf,QmaRdcU36PSReswVfC3e59C7FkBo1UFVYWXKNB3sMkA6eH
+N-0000-QA-LIS-0005-0-0 - Equipment list.pdf,QmX2piYgxgKaMC64T3DVaY1gNdCe89Mg689MEJYqWbFirT
+N-0000-QA-LIS-0005-0-1 - Equipment list.pdf,QmWcpKmkoAhvc2YHVZkuBZfeH694KhCDdmBnUWg8P7fW2C
+N-0000-QA-LIS-0005-0-2 - Equipment list.pdf,QmQ8LE3GSCuDYupi3eBruaf4gnzQvKp3YVPpzaEEvWMv7w
+N-0000-QA-LIS-0005-0-3 - Equipment list.pdf,QmYsUVve9HRkkkhX7SrUnnPj234YkZzw6aZDFEXinGytDS
+N-0000-QA-LIS-0005-0-4 - Equipment list.pdf,QmWRTiJxCni2vX89CUDwHBQ9P65c8BNfCRKX2PYYm3ju59
+N-0000-QA-LIS-0006-0-0 - NCR Log.pdf,QmZgfgDHwSmP2gHsF7VL1yhzhPLKCGL2HS7a7yPEtEcBjg
+N-0000-QA-MAN-0001-0-0 - Quality System Manual.pdf,QmPmGyEcW2zvBbz9DjziDiAgZTv4Wtb99PETgCmfY39oW8
+N-0000-QA-MAN-0002-0-0 - Quality System Manual NPT+MO Ed. 0 Rev. 0 - ANIS SIGNED.pdf,Qmdn9FDKcURBTJcjovFrPcH8Qf2GR3FVUrTrvw2NBVTmAn
+N-0000-QA-MCR-0009 - Calibration Record MyTE 0009.pdf,QmNULr2DJLjaLaomRGMyx8FD4ZAfjk3RdCSa1axTmwQHQ7
+N-0000-QA-MCR-0010 - Calibration Record MyTE 0010.pdf,QmavY39Jdzzine7shMnU1F5k89DbqMzKpu6Q3AvTBgNLR1
+N-0000-QA-MCR-0011 - Calibration Record MyTE 0011.pdf,QmPFFwYVgc9jeYn8mbDf3DwX3TBq27jMP5ucDkxX9iKiHf
+N-0000-QA-MCR-0012 - Calibration Record MyTE 0012.pdf,QmV6oG9WLDnXzhs6ndXsDP6vmug16Pc9Sji3gY9vkqDq6D
+N-0000-QA-MCR-0013 - Calibration Record MyTE 0013.pdf,QmSZtCpiXmD63bPSsw9g8x7kcgr22rdsDwjLPPLXcRudsp
+N-0000-QA-MCR-0014 - Calibration Record MyTE 0014.pdf,QmX5iYS1kuCAkJab1Dsrmi1B93jBVFEERLAA6SiQVCdMaV
+N-0000-QA-MCR-0015 - Calibration Record MyTE 0015.pdf,QmfE6HKFyqvfYz6GERUvnpAUUoVW5CMVSFT2Cc6LF5vTnp
+N-0000-QA-MyTE-0009-0-0 - Equipment decal.pdf,QmarstxcHCg9Wi1jZEuQs4Tpe1wDTN2sKKm24Zuvek3uZQ
+N-0000-QA-MyTE-0010-0-0 - Equipment decal.pdf,QmebjfN4HhLGPv4EBo8wGG5cDprP9vD95M22mqDHskiMm8
+N-0000-QA-MyTE-0011-0-0 - Equipment decal.pdf,QmNaoygQPjssNUq9i7qygjCymjHi2C1MD97pThiBGqXprk
+N-0000-QA-MyTE-0012-0-0 - Equipment decal.pdf,QmVaX2Wu93ZmgRrV3h2oUwG2J5ACvcgZpZXmi1xzT39aXN
+N-0000-QA-MyTE-0013-0-0 - Equipment decal.pdf,QmQ1EUEszSh3HmYpruos46ZmCGWN16T5ZmmKSUsk2ckpD2
+N-0000-QA-MyTE-0014-0-0 - Equipment decal.pdf,QmR5DVzHWjjwCPCifv1bdSPuBrqSijS7xK57NmG3iKsZS3
+N-0000-QA-MyTE-0015-0-0 - Equipment decal.pdf,Qmd6BAJB5r3JufWvBWiCSx1wDLMxWbPBSE5z2DEipAWETx
+N-0000-QA-NCR-21001-0-0 - Survey LABTESA - Certificado NIST.pdf,QmZi73KDkEcLEqBX196gsuzVETcyz4qTbNeMTbhq1r4pkQ
+N-0000-QA-NCR-21002-0-0 - Qualification of Lead Auditor.pdf,QmXZs89XGNFseczCt78RiuizSZJxt9cgwf2JX7n5w4joVq
+N-0000-QA-PRO-0001-0-0 Documented information.pdf,QmVYqZgWuw5Mxm9nuVmJpeyWp1MtenG8g6NeJRnwZ5JBG3
+N-0000-QA-PRO-0001-1-0 Documented information.pdf,Qmd7srHXbLfftLkhHg7M3wgLzttLzG8zaxa8yUWL1iTjCc
+N-0000-QA-PRO-0001-2-0 Documented information with ANI comments resueltos.pdf,QmUcRoaLk4cuqFEweWjEXgY4TF3oJkdkUHyokENZi5sF7c
+N-0000-QA-PRO-0002-0-0 Qualification of auditors.pdf,Qme6AEtK7n6nrfYzSKqKYqXLiu8Rwy6GjUTv3h6h5keCnt
+N-0000-QA-PRO-0002-1-0 Qualification of auditors with ANI comments resueltos.pdf,Qmeb5ggWrGEK6B4PyfiZtFX8WvDPyfGiHdY1m9JEwUHxEf
+N-0000-QA-PRO-0003-0-0 Audits.pdf,QmV3wuiZ51mRmNMd4gHFLysUqiFsLxqnJEWPqChLMtj1cT
+N-0000-QA-PRO-0004-0-0 Qualification of welding engineer.pdf,QmUYM1FDwbyyPag7br9cUstKRoD6D2JyaD4Zevb2dhw6H9
+N-0000-QA-PRO-0005-0-0 Non-conformances.pdf,QmNzfbe9DCvYbD7wDRBGgLY8vfZyWbmNvRx5x3UmBwhyiM
+N-0000-QA-PRO-0006-0-0 Corrective  actions.pdf,QmNPyaxmkohcZWRCWVRSL1HxrsVcSud5RyEaHDAq13rXvj
+N-0000-QA-PRO-0006-0-1 Corrective  actions.pdf,QmcXyAcBpjs3McvfdrjvYxWDft9F1r8rM3kK3mvDsyxQsz
+N-0000-QA-PRO-0007-0-0 Control of vendors.pdf,QmZ8QSPTV4g6VMFhEiFZQyUXWMPwUTZbo9hKGYwpXfYWcb
+N-0000-QA-PRO-0008-0-0 Identification, marking and control of items.pdf,QmSgLvg9btG5V4vB4C2eYp2k5tJSfG5HDTzptzp2j7ycmF
+N-0000-QA-PRO-0008-0-1 Identification, marking and control of items.pdf,QmeUtv1tQJPMt8WG77doXqUVuP6B2T493jEyy5mje6iX3g
+N-0000-QA-PRO-0009-0-0 Handling, packing, storage, preservation and shipping.pdf,QmanJmBjeupzW54kShJxwd5ZvHRbpfVBFCwpZCxfjDfdzs
+N-0000-QA-PRO-0010-0-0 Incoming, in process and final inspection and release of items.pdf,Qmf7ZY2c9jxkPFFWf3qTXh66Lsxo6iR2GYsWREouK1M1hd
+N-0000-QA-PRO-0011-0-0 Control of measuring and test equipment.pdf,QmShyr2ua9kg63giHmY9u6YnrKrorqs1p9dPymrQGA4aXN
+N-0000-QA-PRO-0011-0-1 Control of measuring and test equipment.pdf,QmZz1hvK48cNrcmpjrYumgueYtPp45b811JnZh6iANy1H7
+N-0000-QA-WEC-21001-0-0 - Certificate of Welding Engineer Oscar Colombo.pdf,Qmb63BtQdtyBvbY5CgZWk4cuC6rRb9AC25F6Cm8FYnPo22
+N-1500-CO-FRR-21001-0-0 - Demo - Feasibility review report.pdf,QmXvkmvRC7KTzm13ULJ9eJgUSefMTzt9AKfj8Mk3szbt1C
+N-1500-CO-FRR-21002-0-0 - Demo - Feasibility review report 13-01-21.pdf,QmdZSMP86hv96SgG8Qk2hgxKvLRwuBz342bZhuVCErhAcW
+N-1500-CO-FRR-21003-0-0 - welding material - Feasibility review report 13-10-21.pdf,QmUk4mzBkcRfFYXkZjKRYQvjZztyjvsHUVzwRoLRjMz27d
+N-1500-CO-POR-21001-0-0 - Production order 10-02-21.pdf,Qma3XDp1BEcsuK4xUDonF4WQEpSMx4L22rKg7KRZzSAEFe
+N-1500-CO-POR-21002-0-0 - Production order 10-02-21.pdf,QmUfkY9Bb2JsE8ufzWnTto88xEx2xYgXsZVZVGxX9qZgw2
+N-1500-CO-POR-21003-0-0 - welding material - Production order 13-10-21.pdf,QmTbcFoANkvNnkJm8hJwnauQL1xZLKwcRQ1vLmn7TGhwds
+N-1500-CO-QRF-21001-0-0 - Demo - Quotation request 04-01-21 .pdf,QmPD744GHUpSqyqRLfQHNWTWe4MTBVwqB6kAeeLhaMFJgL
+N-1500-CO-QRF-21002-0-0 - Demo - Quotation request 04-01-21.pdf,QmX7VBeTzespp8Nf3pSvnx2RTReZD3Ybgzq7dAQJfYsemo
+N-1500-CO-QRF-21003-0-0 - welding material - Quotation request 13-10-21.pdf,QmdkWVw3cau9iRcD6ZA5XfkVz7rsNgdYXdrgdP8JcMwX3L
+N-1500-EN-MITP-21001-0-0 - ITEM DEMO.pdf,QmRJbxouupQ2TjNUVrMUwNjb2gGkLP7tmmMNWpitsE5Mvi
+N-1500-EN-MITP-21001-1-0 - ITEM DEMO EDICION 1.pdf,QmS3QYWZNgsc4DZSeswZ7cCGdH5wr3xSAw7mUaEGNopmgr
+N-1500-EN-MITP-21001-2-0 - ITEM DEMO EDICION 2 - con comentarios ANI.pdf,QmYqCZ1ECaYEqhbAwwJNAmku8XVbzfvoPoStojWvY3iAkt
+N-1500-EN-MITP-21002-0-0 - ITEM DEMO RECIPIENTE.pdf,QmYKFUHph1hD4vTwCHQF52i4B8amX7EcJdR13zzxab4Cty
+N-1500-EN-MITP-21002-1-0 - ITEM DEMO RECIPIENTE with ANI Comments.pdf,QmWrq8muT7DnaY7nvfpRYjdERDbzBxfC88JDkbkozjTjaE
+N-1500-EN-PLN-0001-0-0 Esquema Chapa Codificada V2.pdf,QmcnNegaSb1T8WuNxGQyVgqsupu69QyP74kApwec9Z25QQ
+N-1500-EN-PLN-0002-0-0 PIPING SUB ASSEMBLY - CONECTION N-1.pdf,QmeKGZkdPwqbCY9nSKooWkdsofuG96sNYPVn1LBxnykTL4
+N-1500-EN-PLN-0003-0-0 NAMEPLATE.pdf,QmfNYPChwKb35cHgbxwXrrDnRVjVsY7gN6hbksChfUje7i
+N-1500-EN-PLN-0004-0-0 PIPING SUB ASSEMBLY - CONECTION N1.pdf,QmeKhJegHmqq9eS9tAk616BRjbu9JN5YLXKkaBqpiQJ5db
+N-1500-EN-PLN-0005-0-0 PIPING SUB ASSEMBLY PACKAGING.pdf,Qmc5E5VPygbhBgQxjVA3ZiiWkLRFXjnxrBfRHG1gdb7C51
+N-1500-EN-PLN-0006-0-0 Plano Corte por Agua.pdf,QmSZvSjfT6XV68yL8NDTwT3nJ77smSPNUMEX4hdPmBPBHq
+N-1500-QA-ASE-21001-0-0 - Acceptance of services CALIBRE y MICROMETRO.pdf,QmfG5xeNTGTM2hUrADsFRMJaJphpCfCQdrtAQm61yWFZs1
+N-1500-QA-ASE-21002-0-0 - Acceptance of services Heat Treatment.pdf,QmU2B7SUVXSzQA5MYUHVpfyGSUbteewUQ76thYSzWNJSPe
+N-1500-QA-ASE-21003-0-0 - Acceptance of services Sample for Drop Weight.pdf,QmeCRBHUC9vMABsWVpGtvPTwtmPbN7a4CZzL8JhiHwW8NJ
+N-1500-QA-ASE-21004 0-0 - Acceptance of services Drop Weight Test.pdf,QmQ77xyvxRtJXM3BvAaRu6iQiQ16WUdXuNgqkzec1teWWQ
+N-1500-QA-ASE-21005-0-0 - Acceptance of services Chemical and Physical test.pdf,QmXZzXF7nBExJUL51S1F2Ap1uodcm9qeFoxFrXBfsEozH8
+N-1500-QA-ASE-21006-0-0 - Acceptance of services Amperometric Clamp.pdf,QmWeVrVufaYZKJQBHA7Agf5z7EqARntwJWxDpBNpVJ2TGn
+N-1500-QA-ASE-21007-0-0 - Acceptance of services Weld Gauge.pdf,QmRFjiyPSmi4LV6UPtNK5pCmBtCxHoCoSiPLGjc8Q2otCb
+N-1500-QA-ASE-21008-0-0 - Acceptance of services Goniometer.pdf,QmRZwcrmo6xLWG6DbRc6r2MhAsUbjEqQZ4wuCRQWym35PJ
+N-1500-QA-ASE-21009-0-0 - Acceptance of services Goniometer.pdf,QmYJLf2oRXkK1mNnm7RRKX1ggpjPfTwKupTYdfuusv1tMv
+N-1500-QA-ASE-21010-0-0 - Acceptance of services UT.pdf,QmerEwptfk6FASgsu5hdBFcyZDu4nz2c1YmLARLGNXrWSZ
+N-1500-QA-ASE-21011-0-0 - Acceptance of services CALIBRE y MICROMETRO.pdf,QmWGvVPbE99Ge9jZZzEPome3FJ3NvXcgBJw3P7BYo3zNR6
+N-1500-QA-ASE-21012-0-0 - Acceptance of services RT for PQR.pdf,QmR1SFo5PRewAtdyB7k3AckPkXAHuxtXiMrXbEcaXq562M
+N-1500-QA-ASE-21013-0-0 - Acceptance of services Laboratory  for PQR.pdf,QmSUswvHDMZiMWxwX6UdkBXQERceJZ4sNKTwSRociRw5HN
+N-1500-QA-CMTR-21001-0-0 - Chapa ASME SA-516 Gr 70.pdf,QmWwK2K9f8ur3N4PegaJSLZPCEhLerr9KQ8sD1mHzLwY7x
+N-1500-QA-CMTR-21002-0-0 - Media chapa ASME SA-516 Gr 70.pdf,QmQZ6ygoZWZ5gRJF539Fti73Scgv9mbotCsHX7vxsD5zd2
+N-1500-QA-CRE-21001-0-0 - Certificado recepcion Chapa.pdf,QmVin8Lv816nZkakW1Q2KcT8zJ9L7fL3XdRZZwpX1Yv6AG
+N-1500-QA-CRE-21002-0-0 - Certificado recepcion aporte Electrodo.pdf,QmcpbmCY6fdSdNnvD1nneRcimS3JX5WvguV7FBMfgvR1jb
+N-1500-QA-CRE-21003-0-0 - Certificado recepcion aporte - Varilla.pdf,Qmc8oFHM8GH2LU4sYhAGVy9G1kq62A9FMa9EE3LF4Hy82r
+N-1500-QA-CRE-21004-0-0 - Certificado recepcion Chapa cortada SILMAR.pdf,QmZ2hbWLQzrYNTnfyT3nzoxDDDMZqqbcCbAV74brJMTQPZ
+N-1500-QA-CRE-21005-0-0 - Certificado de recepcion Recipiente Rolado.pdf,QmNTvVgi9UGCGmLJ2V4PxmdZRwUx387fwUmwj29q1n8wCa
+N-1500-QA-PCC-21001-0-0 - Control protocol Ingreso Chapa.pdf,QmRwcJe7BbQmK8ZjNGBhgREpSrjok3db9kS1yjJHv7RfWY
+N-1500-QA-PCC-21002-0-0 - Control protocol Ingreso probetas Drop Weight.pdf,QmUysVT7vWPyXjnzVJRFdt2LwY8ZAmh7KatcYBpGEbbPRS
+N-1500-QA-PCC-21003-0-0 - Control protocol Ingreso aporte electrodo.pdf,Qmf4g3UqzMhM47fXxLa5y6r7dtoP1VNhzfoRPLJbLfM16U
+N-1500-QA-PCC-21004-0-0 - Control protocol Ingreso aporte varilla.pdf,QmcD4uK7MiRMatKhCXXbum7ZDsjCdxGZXHzDzq2YSaCxy9
+N-1500-QA-PCC-21005-0-0 - Control protocol Ingreso Chapa Cortada por agua.pdf,Qmd71kXKXty6tvcQrjoZUA4g6MuvtZ4g5ju9rdZmp4G5sY
+N-1500-QA-PCC-21006-0-0 - Control protocol Ingreso Recipiente Rolado Biseles.pdf,QmQudF49ZnvgehWsD5j7gmczfzFnLp4pBczftkcYVa7q5K
